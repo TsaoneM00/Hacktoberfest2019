@@ -13,3 +13,9 @@
 - Bio: Web developer, Mobile app developer
 - Github: https://github.com/Tumo505
 ***
+
+### Tsaone Menyatswe
+- Photo: https://www.instagram.com/p/BuN4WDEhsFY/
+- Location: Gaborone, Botswana
+- Bio: Web Developer(beginner), Game Developer
+- Github: https://github.com/TsaoneM00
